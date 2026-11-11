@@ -1,0 +1,9 @@
+pyinstaller>=6.6
+certifi
+mutagen
+websockets
+requests
+brotli
+pycryptodomex
+yt-dlp
+yt-dlp-ejs
